@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Entities",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Abstract",
+    "\\Entity"
+  ],
+  "SelectedNode": "\\WebAPI",
+  "PreviewInSolutionExplorer": false
+}
